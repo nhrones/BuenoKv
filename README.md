@@ -16,5 +16,5 @@ The intent is to provide data that is both compatible with, and transferable to 
   - Full text search per column (property)
     - See: https://nhrones.github.io/BuenoCache/
 - Require no external dependencies (Deno not required)
-  - Full library is browser compatible
+  - Provided library and tools to be browser compatible
 
